@@ -1,0 +1,152 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    }
+    
+    header{
+    width: 100vw;
+    height: 20px;
+    background:#FFFFFF;
+    }
+    
+    .Login{
+    Width :1366px;
+    Height :1024px;
+    Top :-513px;
+    Left :-712px;
+    color:#2CB3F3; 
+    }
+    
+    body{
+    position: absolute;
+    width: 1366px;
+    height: 1024px;
+    left: 0px;
+    top: 0px;
+    background-color: #2CB3F3;
+    }  
+    
+    .section-title{
+    
+    position: absolute;
+    width: 1056px;
+    height: 132px;
+    left: 144px;
+    top: 89px;     
+    }
+    
+    .title-header{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 500;
+    font-size: 56px;
+    line-height: 55px;
+    color: #000000;
+    }
+    
+    .p-title{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 55px;
+    color: #000000;
+    }
+    
+    .container{
+    position: absolute;
+    width: 880px;
+    height: 616px;
+    left: 243px;
+    top: 245px;    
+    background: #FFFFFF;
+    border-radius: 100px 100px 0px 0px;
+    }
+    
+    .box{
+    
+    position: absolute;
+    width: 692px;
+    height: 487px;
+    left: 337px;
+    top: 309px;
+    background-color: #FFE1C9;
+    border-radius: 50%;
+    }    
+    
+    .circle-left{
+       
+    position: absolute;
+    width: 55.7px;
+    height: 55.7px;
+    left: 515.39px;
+    top: 405.88px;
+    background: #000000;
+    border-radius: 50%;
+     } 
+    
+    .circle-right{
+    position: absolute;
+    width: 55px;
+    height: 55.7px;
+    left: 795.46px;
+    top: 405.88px;
+    background: #000000;
+    border-radius: 50%;
+    }
+    
+    
+    .label-box-email{
+        
+    position: absolute;
+    width: 373.96px;
+    height: 63.65px;
+    left: 496.29px;
+    top: 563px;
+    background-color: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 5px;
+    }
+    
+    .label-box-password{
+        
+    position: absolute;
+    width: 373.96px;
+    height: 63.65px;
+    left: 496.29px;
+    top: 626px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 5px;
+    }
+    
+    .boton{
+        
+    position: absolute;
+    width: 220px;
+    height: 70px;
+    left: 573px;
+    top: 885px;
+    background-color: #55A603;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    
+    .p-basebord{
+    
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    }
+    
